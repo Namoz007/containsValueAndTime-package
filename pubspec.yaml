@@ -1,5 +1,5 @@
 name: contains_value_and_time
-description: This function for find value in List datas
+description:  A Dart package that provides a function to check if a list contains a specified value and returns the index of the value along with the time taken to find it.
 version: 1.0.0
 repository: https://github.com/Namoz007/containsValueAndTime-package.git
 homepage: https://github.com/Namoz007/containsValueAndTime-package.git
